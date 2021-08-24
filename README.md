@@ -1,14 +1,14 @@
 # aprender
 aprender
 (teste repositorio) (https://github.com/marialua21/aprender.git)
-brush
+brush:
 |dados |informaçoes|
 |:"""""|:"""'""""""|
 | aluno| nome      |
 
-´´diff
-* teste cor 1
-' teste cor 2
-
+``diff
+*teste cor 1
+ -teste cor 2
+``````
 
 
